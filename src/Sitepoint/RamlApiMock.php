@@ -23,9 +23,9 @@ class RamlApiMock {
 				$r->addRoute($route['method'], $route['path'], $route['path']);
 			}
 		});
-
+		
 	}
-
+	
 	/**
 	 * Dispatch a route
 	 * 
